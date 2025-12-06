@@ -1,0 +1,1 @@
+vless://770b73e1-e4ba-4263-848f-fa1306e03524@xray131.mooo.com:22428?type=ws&encryption=none&path=%2Fwebsocket&host=xray131.mooo.com&security=none#ws-TaSok
