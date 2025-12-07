@@ -2,4 +2,5 @@ vless://c6069be1-534a-49a8-b66e-ff37fe361e33@pl1.fromblancwithlove.com:8443?alpn
 vless://e9bae6fa-6d21-44b4-800e-28c908fbf76f@ger5.un1c4d3.ru:24447?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=de-cix.net&type=tcp#111%2025%2025%20-%20016
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?encryption=none&host=cdn.ir&path=%2Fnews&security=none&type=ws#118%2025%2035%20-%20018
 trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?allowInsecure=1&sni=bldgmy.nejzftlubrig.click#103%2035%2025%20-%20019%20Exclave,%20Amnezia
-vless://9beab868-ab67-48a4-b84e-0155b7965d33@cze01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#162%2035%2040%20-%20020
+vless://5e6dced7-6064-43ff-9b72-6287711a2ecc@90.156.216.64:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iYC71IsUbGvALcvoMZ9yEuRFDStcu0nub9n3HKGqTEw&security=reality&sid=545ade5a&sni=eh.vk.com&type=tcp#122%2055%2025%20-%20021
+vless://2a2a6062-003c-4f44-b293-ee0d0416afee@144.124.246.127:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gbP2G_j0cmFvgmWaWLpzZavEzQiPzky-fApmbF2BWxU&security=reality&sid=f961007b26f6&sni=pimg.mycdn.me&type=tcp#108%2040%2040%20-%20022
