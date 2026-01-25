@@ -1,5 +1,4 @@
 vless://e6567cc8-2bc5-477a-89da-fae784813f05@xray131.mooo.com:22428?encryption=none&host=xray131.mooo.com&path=%2Fwebsocket&security=none&type=ws#ws-ALL
-vless://d72b5361-88f7-467b-9f51-39cc56f25eeb@pl.choppervpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sjXGaIKayOS1NbOsFKxddiWq5yTRZbK0r8Df0465jWA&security=reality&sni=www.deepl.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland
 vless://efc58675-7d9c-4e0e-8792-86c015453775@xray130.mooo.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=p6YhErOwve7O7t4ISTtM1BNtlcvf-e5ZzbGGgiDTn0Y&security=reality&sid=815cc578125cf244&sni=sub.xray130.mooo.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20reality-first
 vless://06d4a2dd-b823-4b6a-843e-c159b6858d91@25.129.199.122:2095?encryption=none&host=ip6-free2.shakhle.ir.&path=%2F&security=none&type=ws#%F0%9F%9B%9C55@oneclickvpnkeys
 vless://71031aa1-067e-425e-97f5-37875f838a10@51.250.45.183:4443?encryption=none&fp=chrome&pbk=mklKRO-pXLd-1SA5ZqCZEfr9mEz54D74W6O-QMlgqWw&security=reality&sid=91017aeddb35b5&sni=eh.vk.com&type=tcp#%F0%9F%9B%9C80@oneclickvpnkeys
