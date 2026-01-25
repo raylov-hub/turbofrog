@@ -1,2 +1,1 @@
 vless://770b73e1-e4ba-4263-848f-fa1306e03524@xray131.mooo.com:22428?type=ws&encryption=none&path=%2Fwebsocket&host=xray131.mooo.com&security=none#ws-TaSok
-vless://5d92ad76-3496-4b29-a605-96da0a33776a@xray130.mooo.com:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=xray130.mooo.com&path=%2FGOnPbKlWQHGttVrpJMwRcH2nNx0&security=tls&sni=xray130.mooo.com&type=ws#xray130.mooo.com%20tls%20WS%20direct%20vless
