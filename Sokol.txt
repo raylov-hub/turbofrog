@@ -1,1 +1,2 @@
-vless://770b73e1-e4ba-4263-848f-fa1306e03524@xray131.mooo.com:22428?type=ws&encryption=none&path=%2Fwebsocket&host=xray131.mooo.com&security=none#ws-TaSok
+vless://770b73e1-e4ba-4263-848f-fa1306e03524@xray131.mooo.com:22428?encryption=none&host=xray131.mooo.com&path=%2Fwebsocket&security=none&type=ws#ws-TaSok
+vless://d72b5361-88f7-467b-9f51-39cc56f25eeb@pl.choppervpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sjXGaIKayOS1NbOsFKxddiWq5yTRZbK0r8Df0465jWA&security=reality&sni=www.deepl.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland
