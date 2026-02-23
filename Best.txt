@@ -9,3 +9,4 @@ vless://056c663c-f856-4d9c-808f-22948e927b7f@51.250.117.173:5443?encryption=none
 vless://163d2ba9-6080-48f8-b3fa-53766be00a2e@51.250.75.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4&security=reality&sid=1bbbfaf553e63d8c&sni=max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20YA%20(1)
 vless://001c68ea-7186-4d3e-863b-7b513e73e7a0@51.250.46.121:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Po6vtOwHYjzS-ibY01_2yrvhpw7jhOBDFesZKMcxUi8&security=reality&sid=8cd9d7c88b8fd22c&sni=max.ru&type=tcp#%F0%9F%93%A471@oneclickvpnkeys
 trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%AA%A249@oneclickvpnkeys
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#%F0%9F%93%A449@oneclickvpnkeys
