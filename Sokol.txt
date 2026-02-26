@@ -1,3 +1,2 @@
-vless://770b73e1-e4ba-4263-848f-fa1306e03524@xray131.mooo.com:22428?encryption=none&host=xray131.mooo.com&path=%2Fwebsocket&security=none&type=ws#ws-TaSok
 vless://2dc0a479-7820-4d63-bf46-b96ed6a7a765@xray131.mooo.com:56997?encryption=none&fp=chrome&host=xray131.mooo.com&mode=auto&path=%2Faretlfncxq&pbk=30hEaqy149c772UDY7DiwxXLs0H1rH01gzzRZTwOzEI&security=reality&sid=eca226a5ebb22841&sni=www.apple.com&type=xhttp#TaSokXHTTP
 vless://cfdde58a-c503-4eba-b8ad-1b1323752721@xray131.mooo.com:49442?encryption=none&fp=chrome&pbk=asULogzDx2Q-gue76hIK4EuQuULqThYTwOInAOnc9CI&security=reality&sid=12cc0c316525&sni=www.github.com&type=tcp#tcp-reality-TaSok3
