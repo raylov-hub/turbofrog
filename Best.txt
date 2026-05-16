@@ -1,4 +1,3 @@
-hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443/?sni=finprem.nimarko.org#%F0%9F%87%AB%F0%9F%87%AE%20Other%20WiFi%20(ai)%20@ikoV31tud
 vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@45.133.251.23:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Other%20DE%20%7C%20VLESS%20%7C%20%E2%9A%A1%202804ms
 vless://30dab345-4de9-4b70-ad9f-8ebd5c66686f@node1.boomvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GRxGFwibgoUjG9OL5Dl1OLyK56yw8WaG5BdFP8ifVgQ&security=reality&sid=26f7082dd0e36ca1&sni=www.microsoft.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20(ai)%20wifi%20(1)
 hysteria2://tg_360944434_f568353a%3A4e5517907682ff807b39ae86@85.11.167.216:443/?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%E2%9A%A1%EF%B8%8F%20%23453EZ%20TLS
