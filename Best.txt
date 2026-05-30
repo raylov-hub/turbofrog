@@ -1,4 +1,4 @@
-#profile-update-interval: 6
+#profile-update-interval: 12
 #profile-title: Best истекает 20.06.2026
 vless://405c9103-a71a-4f9a-8582-aa881a19a41f@pl.tlsov.pro:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&security=reality&sid=1000&sni=ads.x5.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TLSov%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
 vless://405c9103-a71a-4f9a-8582-aa881a19a41f@de.tlsov.pro:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&security=reality&sid=1000&sni=ads.x5.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TLSov%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
