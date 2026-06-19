@@ -1,6 +1,5 @@
 #profile-update-interval: 3
-#profile-title: Best истекает 20.06.2026
+#profile-title: Best (истекло)
 
-vless://405c9103-a71a-4f9a-8582-aa881a19a41f@de.tlsov.pro:8443?encryption=none&fp=chrome&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&security=reality&serviceName=ads.x5.ru&sid=1000&sni=ads.x5.ru&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20TLSov%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-vless://6ffef1aa-c2b5-450c-84e9-50b8b6d84bd3@nodes.cumpot.vip:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZK2ho7I4zXYBXSEdwlc6Q615vzEbfafSw4hMnuMD7lc&security=reality&sni=github.io&type=tcp#c@mpotVPN
+
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@104.17.147.22:443?encryption=none&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir&security=tls&sni=website.yaroo383mardak.online&type=ws#%D0%B2%D1%81%D0%B5%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D1%8B
